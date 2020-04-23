@@ -1,4 +1,5 @@
 # DLABO
+A plan for presenting your knowledge to learners from around the world.
 
 1. Greeting     
 2. Who is this
